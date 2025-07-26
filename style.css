@@ -192,6 +192,7 @@ form:hover
 .section4 iframe 
 {
     display: inline-block;
+    min-width: 1000px;
 }
 
 .flex 
