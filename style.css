@@ -192,6 +192,9 @@ form:hover
 .section4 iframe 
 {
     display: inline-block;
+    width: 800px;
+    height: 480px;
+    margin-left: 40px;
 }
 
 .flex 
